@@ -16,4 +16,4 @@ Crie um e-book de 5 páginas em uma linguagem simples com o tema  Natural ou Fak
 
 ## 🚀 Resultados
 Arquivo pdf gerado:
-<a href="https://github.com/lucianatr/lab-natty-or-not/tree/main/output/e_book_natural_fake_natty.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/lucianatr/lab-natty-or-not/blob/main/output/e_book_natural_fake_natty.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
